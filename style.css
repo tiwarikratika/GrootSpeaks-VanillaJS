@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+
+body{
+    background-image: url("https://cdn.wallpapersafari.com/32/37/lhI4OC.jpg");
+    font-family: 'Tajawal', sans-serif;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+   
+}
+
+h3{
+    color: cornsilk;
+
+    margin-bottom: 1rem;
+    font-size: 24px;
+    margin-left: 20vh;
+}
+
+.heading {
+    font-size: 42px;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    
+    margin-left: 20vh;
+    margin-bottom: 1rem;
+
+    
+   
+}
+
+textarea{
+    display: block;
+    width: 40%;
+    height: 10vh;
+    margin-left: 20vh;
+    /* margin: auto;
+    padding: 1rem; */
+    color: black;
+    background-color: cornsilk;
+
+}
+
+::placeholder {
+    color: black;
+}
+
+#output {
+    border: none;
+    width: 40%;
+    height: 10vh;
+    margin-left: 20vh;
+    padding: 1rem;
+    display: block;
+    background-color: cornsilk;
+    
+}
+#output-txt {
+    color : rgb(0, 0, 0);
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+}
+
+
+button{
+    padding: 0.5rem;
+    border-radius: 2rem 1px;
+    width: 100px;
+    margin-left: 20vh;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: block;
+    background-color: rgb(179, 215, 219);
+    font-weight: bolder;
+   
+}
+
+footer {
+    background-color: ivory;
+    text-decoration: none;
+    padding: 1rem;
+    margin-top: 10rem;
+}
+
+h2 {
+    text-align: center;
+    padding: 0.5rem;
+}
+

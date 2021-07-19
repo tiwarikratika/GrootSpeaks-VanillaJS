@@ -14,6 +14,6 @@ The term vanilla script is used to refer to the pure
 JavaScript (or we can say plain JavaScript) without any type of additional library. 
 So basically, I have written this app using pure JAvascript without ny other libraries.
 
-<h2>What is an API? <?h2>
+<h2>What is an API? </h2>
 
 API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
